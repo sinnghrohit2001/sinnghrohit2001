@@ -2,8 +2,8 @@
 
 ## Welcome to mypage
 
-![Projects-4](https://img.shields.io/badge/Projects-4-blue)
-![Repo-5](https://img.shields.io/badge/Repository-5-blue)
+![Projects-4](https://img.shields.io/badge/Projects-5-blue)
+![Repo-5](https://img.shields.io/badge/Repository-6-blue)
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-8A2BE2?logo=python)
